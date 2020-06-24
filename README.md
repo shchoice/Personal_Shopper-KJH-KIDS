@@ -29,5 +29,5 @@ Our technology is based on triplet network and object segmentation. Triplet netw
 
 
 ## Documentation
-<a href="https://github.com/shchoice/Personal_Shopper-KJH-KIDS/tree/master/documentation">project ppt</a>
+<a href="https://github.com/shchoice/Personal_Shopper-KJH-KIDS/tree/master/document">project ppt</a>
 
