@@ -1,5 +1,5 @@
 # oddeye by personal shopper
-<img src='./siyeon.gif'>
+![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/60699771/85439088-95871a00-b5c7-11ea-814c-cefbca807b5d.gif)
 
 
 
